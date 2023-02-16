@@ -42,18 +42,19 @@ I'm **Heri Risnanto**, a *full-stack web developer* with more than two years of 
 [![Directus](https://img.shields.io/badge/-Directus-263238?style=for-the-badge&logo=Directus&logoColor=ffffff)](https://directus.io/)
 [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=Supabase&logoColor=ffffff)](https://supabase.com/)
 [![Mapbox](https://img.shields.io/badge/-Mapbox-000000?style=for-the-badge&logo=Mapbox&logoColor=ffffff)](https://www.mapbox.com/)
+[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=ffffff)](https://expressjs.com/)
+[![Moleculer](https://img.shields.io/badge/-Moleculer-3CAFCE?style=for-the-badge&logo=Moleculer&logoColor=ffffff)](https://moleculer.services/)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=ffffff)](https://laravel.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=ffffff)](https://www.prisma.io/)
+[![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?style=for-the-badge&logo=TraefikProxy&logoColor=ffffff)](https://traefik.io/)
+[![k6](https://img.shields.io/badge/-k6-7D64FF?style=for-the-badge&logo=k6&logoColor=ffffff)](https://k6.io/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=ffffff)](https://gitlab.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000)](https://www.linux.org/)
-
-
-
-
-
-
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=heriisei&show_icons=true&count_private=true&theme=apprentice" alt="heriisei's github stats" />
 
