@@ -1,6 +1,6 @@
 ### Warmest greetings from me 👋
 
-I'm **Heri Risnanto**, a *full-stack web developer* with more than two years of experience in the professional web development field that focuses on the front-end side, with additional experience in back-end API service development, including full-time, part-time, & freelance jobs.
+I'm **Heri Risnanto**, a *full-stack web developer* with more than two years of experience in the professional web development field that focuses on the front-end side, with additional experience in back-end API service development, including full-time, part-time, freelance, and mentoring jobs.
 
 [![Personal website](https://img.shields.io/badge/-risnanto.web.id-black?style=flat&logo=InternetExplorer&logoColor=ffffff&link=https://risnanto.web.id/)](https://risnanto.web.id/)
 [![LinkedIn](https://img.shields.io/badge/-heririsnanto-0A66C2?style=flat&logo=LinkedIn&logoColor=ffffff&link=https://www.linkedin.com/in/heririsnanto/)](https://www.linkedin.com/in/heririsnanto/)
@@ -12,7 +12,7 @@ I'm **Heri Risnanto**, a *full-stack web developer* with more than two years of 
 ---
 ### Things I do
 - 🔭 I’m currently working as a freelance Web Developer
-- 🧵 Previously work as a Frontend Engineer (fulltime & part-time) at [Atourin](https://atourin.com)
+- 🧵 Previously worked as a Frontend Engineer (full-time & part-time) at [Atourin](https://atourin.com)
 - 👨‍🏫 Actively sharing knowledge in web development classes as a mentor since 2017-2022.
 
 ---
