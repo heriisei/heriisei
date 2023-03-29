@@ -11,7 +11,7 @@ I'm **Heri Risnanto**, a *full-stack web developer* with more than two years of 
 
 ---
 ### Things I do
-- 🔭 I’m currently working as a freelance Web Developer
+- 🔭 I’m currently working as a full-time Front-End Web Developer
 - 🧵 Previously worked as a Frontend Engineer (full-time & part-time) at [Atourin](https://atourin.com)
 - 👨‍🏫 Actively sharing knowledge in web development classes as a mentor since 2017-2022.
 
