@@ -4,8 +4,6 @@ I'm **Heri Risnanto**, a *full-stack web developer* with more than two years of 
 
 [![Personal website](https://img.shields.io/badge/-risnanto.web.id-black?style=flat&logo=InternetExplorer&logoColor=ffffff&link=https://risnanto.web.id/)](https://risnanto.web.id/)
 [![LinkedIn](https://img.shields.io/badge/-heririsnanto-0A66C2?style=flat&logo=LinkedIn&logoColor=ffffff&link=https://www.linkedin.com/in/heririsnanto/)](https://www.linkedin.com/in/heririsnanto/)
-[![Instagram](https://img.shields.io/badge/-heriisei-E4405F?style=flat&logo=Instagram&logoColor=ffffff&link=https://www.instagram.com/heriisei/)](https://www.instagram.com/heriisei/)
-[![Twitter](https://img.shields.io/badge/-rsnt____-1DA1F2?style=flat&logo=Twitter&logoColor=ffffff&link=https://www.twitter.com/rsnt____/)](https://www.twitter.com/rsnt____/)
 [![Mastodon](https://img.shields.io/badge/-@rsnt-6364FF?style=flat&logo=Mastodon&logoColor=ffffff&link=https://mastodon.social/@rsnt/)](https://mastodon.social/@rsnt/)
 [![Email](https://img.shields.io/badge/-heri.risnanto@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=ffffff&link=mailto:heri.risnanto@gmail.com)](mailto:heri.risnanto@gmail.com)
 
